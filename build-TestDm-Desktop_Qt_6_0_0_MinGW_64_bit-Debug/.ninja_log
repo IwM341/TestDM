@@ -1,0 +1,12 @@
+# ninja log v5
+5	2577	6784439218496589	CMakeFiles/TestDm.dir/main0.cpp.obj	2c6fba5cfbd4634e
+0	207	6829370571676097	build.ninja	c83f38000b30f1a2
+2577	3040	6784439223120425	TestDm.exe	71adcf7daeda3e97
+0	8	0	clean	96eca8e458cb83bb
+1	1042	6829370571676097	build.ninja	c83f38000b30f1a2
+16	3317	6829370605230007	CMakeFiles/TestDm.dir/main0.cpp.obj	2c6fba5cfbd4634e
+3318	3717	6829370609205325	TestDm.exe	71adcf7daeda3e97
+4	2287	6829375195349267	CMakeFiles/TestDm.dir/main0.cpp.obj	2c6fba5cfbd4634e
+2288	2557	6829375198000174	TestDm.exe	71adcf7daeda3e97
+6	2757	6829375544374735	CMakeFiles/TestDm.dir/main0.cpp.obj	2c6fba5cfbd4634e
+2757	3069	6829375547613553	TestDm.exe	71adcf7daeda3e97

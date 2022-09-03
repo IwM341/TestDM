@@ -1,0 +1,3 @@
+D:/tmp/art/TestDM/build-TestDm-Desktop_Qt_6_0_0_MinGW_64_bit-Debug/CMakeFiles/TestDm.dir
+D:/tmp/art/TestDM/build-TestDm-Desktop_Qt_6_0_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/tmp/art/TestDM/build-TestDm-Desktop_Qt_6_0_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
