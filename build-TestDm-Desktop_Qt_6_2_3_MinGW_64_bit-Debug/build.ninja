@@ -50,9 +50,10 @@ cmake_ninja_workdir = D$:/Important/articles/P003_Test_DM/build-TestDm-Desktop_Q
 build cmake_object_order_depends_target_TestDm: phony || CMakeFiles/TestDm.dir
 
 build CMakeFiles/TestDm.dir/main0.cpp.obj: CXX_COMPILER__TestDm_Debug D$:/Important/articles/P003_Test_DM/TestDm/main0.cpp || cmake_object_order_depends_target_TestDm
+  DEFINES = -DTEST_HISTO_BOLTSMAN
   DEP_FILE = CMakeFiles\TestDm.dir\main0.cpp.obj.d
   FLAGS = -g -std=gnu++17
-  INCLUDES = -ID:/Important/articles/DMFramework/utils
+  INCLUDES = -ID:/Important/articles/P003_Test_DM/TestDm/../../DMFramework/utils
   OBJECT_DIR = CMakeFiles\TestDm.dir
   OBJECT_FILE_DIR = CMakeFiles\TestDm.dir
 

@@ -14,6 +14,7 @@
 		"commands" : 
 		[
 			"add_executable",
+			"add_definitions",
 			"include_directories"
 		],
 		"files" : 
@@ -28,11 +29,17 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 10,
+				"line" : 14,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
 				"file" : 0,
 				"line" : 7,
 				"parent" : 0
@@ -51,11 +58,18 @@
 					"fragment" : "-std=gnu++17"
 				}
 			],
-			"includes" : 
+			"defines" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "D:/Important/articles/DMFramework/utils"
+					"define" : "TEST_HISTO"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "D:/Important/articles/P003_Test_DM/TestDm/../../DMFramework/utils"
 				}
 			],
 			"language" : "CXX",
